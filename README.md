@@ -120,6 +120,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Farhood Tabrizi :alien:](https://github.com/farhoodtabrizi)
 - [Amir Hossein Kamandlou 🐘🐳](https://github.com/Kamandlou)
 - Thank you for care about humanity, honor and Iran :heart:.[Farzam Raoufi](https://github.com/farzam-raoufi)
+- [honey nemani ✌️](https://github.com/Honeynem)
 - [Amir Salehi](https://github.com/amiryxe)
 - [montelooka 😍](https://github.com/montelooka)
 - [PedramPM8 🐼👨🏻‍💻](https://github.com/pedrampm8)
